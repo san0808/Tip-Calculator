@@ -1,0 +1,88 @@
+
+
+div.bill > h1:nth-child(1) {
+    /* display: flex; */
+    margin-right: 555px;
+    margin-left: 52px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  
+  /* Element | http://localhost:3001/ */
+  
+  input.bill {
+    /* display: flex; */
+    margin-left: 48px;
+  }
+  
+  /* Element | http://localhost:3001/ */
+  
+  .Tip-percent > h1:nth-child(1) {
+    /* display: flex; */
+    margin-left: 52px;
+    margin-right: 469px;
+  }
+  
+  /* Element | http://localhost:3001/ */
+  
+  .number-people > h1:nth-child(1) {
+    /* display: flex; */
+    margin-left: 52px;
+    margin-right: 418px;
+  }
+  
+  /* Element | http://localhost:3001/ */
+  
+  .no-people {
+    /* display: flex; */
+    margin-left: 48px;
+  }
+  
+  /* Element | http://localhost:3001/ */
+  
+  /* .Tip-percent > button:nth-child(2) {
+    display: flex;
+    margin-left: 48px;
+    flex: 10%;
+  }
+  
+  /* Element | http://localhost:3001/ */
+  
+  /* .Tip-percent > button:nth-child(3) {
+    display: flex;
+    
+    margin-left: 56px;
+    flex: 10%;
+  } */ */
+  .Tip-percent > button{
+    /* display: flex; */
+    margin-left: 48px;
+    /* flex: 10%; */
+  } 
+  .Tip-percent{
+        display: flex;
+        flex-wrap: wrap;
+        height: 300px;
+        align-items: center;
+  }
+  .Calc{
+    /* display: flex; */
+    /* flex: 50%; */
+    margin-right: 312px;
+    margin-left: 0px;
+  }
+  .div.bill{
+    margin-top: -167px;
+    margin-bottom: 66px;
+  }
+  .button{
+    /* height: 100px;
+    width: 200px; */
+    
+    flex-direction: column;
+  }
+  .ten{
+    margin-left: 40px;
+
+  }
