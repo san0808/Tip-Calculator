@@ -6,6 +6,9 @@ function App() {
   return (
     <div className="App">
       <Back/>
+      {/* nAV */}
+      {/* HOME */}
+      {/* FOOTER */}
       
     </div>
   );

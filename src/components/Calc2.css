@@ -1,0 +1,90 @@
+.input{
+    direction: right;
+}
+.calc{
+    
+    position: relative;
+    display: flex;
+    height: 400px;
+    width: 300px;
+    /* margin-left: 400px;
+    margin-right: 600px; */
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.bill{
+    display: flex;
+    /* position: relative; */
+    flex-direction: column;
+    /* flex:0.2; */
+    margin-top: 21px;
+    margin-bottom: 11px;
+}
+.bill_total{
+    text-align: right;
+    width: fit-content;
+    height: 16px;
+    margin-left: 38px;
+    font-size: 20px;
+}
+
+.bill_h1 {
+    width: 263.817px;
+    height: 63px;
+    }
+.Tip-percent {
+    margin-left: 37px;
+    margin-right: 0px;
+    
+    }
+.Tip-percent > h1:nth-child(1) {
+    width: 300px;
+    margin-left: 3px;
+    margin-bottom: 10px;
+    }
+.button{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    flex-wrap: wrap;
+}
+.Button{
+    margin: 6px;
+    display: flex;
+    border: 1px solid black ;
+    width: 100px;
+    align-items: center;
+    height: fit-content;
+    border-radius: 5px;
+    color: rgb(237, 241, 240);
+    background-color: rgb(3, 105, 100);
+    font-size: 22px;
+    cursor: pointer;
+    position: relative;
+    
+
+    }
+    .Button:hover{
+        background-color: rgb(145, 219, 219);
+        color: rgb(3, 105, 100);
+    }
+.Tip_percent > input::placeholder{
+    color: white;
+    
+
+} 
+.number-people {
+    margin-top: 10px;
+   }
+   
+.no-people {
+    margin-top: 6px;
+    margin-left: 39px;
+    text-align: right;
+    font-size: 18px;
+    }
+.number-people > h1:nth-child(1) {
+        
+        margin-left: 40px;
+        margin-bottom: 9px;
+    }

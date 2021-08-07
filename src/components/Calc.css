@@ -20,16 +20,16 @@ div.bill > h1:nth-child(1) {
   
   .Tip-percent > h1:nth-child(1) {
     /* display: flex; */
-    margin-left: 52px;
-    margin-right: 469px;
+    margin-right: 331px;
+    margin-left: 46px;
   }
   
   /* Element | http://localhost:3001/ */
   
   .number-people > h1:nth-child(1) {
     /* display: flex; */
-    margin-left: 52px;
-    margin-right: 418px;
+    margin-left: 268px;
+    margin-right: 462px;
   }
   
   /* Element | http://localhost:3001/ */
@@ -64,13 +64,17 @@ div.bill > h1:nth-child(1) {
         display: flex;
         flex-wrap: wrap;
         height: 300px;
-        align-items: center;
+        /* align-items: center; */
+        justify-content: space-evenly;
+        margin-right: 331px;
+        margin-left: 46px;
   }
   .Calc{
     /* display: flex; */
     /* flex: 50%; */
     margin-right: 312px;
     margin-left: 0px;
+
   }
   .div.bill{
     margin-top: -167px;
@@ -79,9 +83,10 @@ div.bill > h1:nth-child(1) {
   .button{
     /* height: 100px;
     width: 200px; */
-    
+    width: 30px;
     flex-direction: column;
   }
+
   .ten{
     margin-left: 40px;
 
