@@ -1,3 +1,17 @@
+This a Tip Calculator App
+->it is a simple app that generates your Tip Amount and Finalk Amount on taking your inputs such as
+  ->Total Bill for a indivitual
+  ->Tip percentage to select out of the options provided also one can give a customized Tip percentage.
+  ->Number of people
+*The Project demonstrates the use of HTML, CSS, React.js
+//This is the first one with React.js but with upcomming ones the level will just grow so follow me to watch my work 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
