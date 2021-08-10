@@ -29,22 +29,44 @@ span{
     font-size: 25px;
 }
 .RESET{
-    margin-top: 187px;
+  margin-top: 304px;
+margin-right: 7px;
+margin-left: -238px;
     height: fit-content;
     align-content: center;
     color:rgb(10, 83, 80);
-    margin-left: 20px ;
+   
     width: fit-content;
     padding-left: 70px ;
     padding-right: 100px;
     border: 1px solid black;
     background-color: rgb(145, 219, 219);
+    cursor: pointer;
     
 }
 .RESET:hover{
     background-color: rgb(213, 219, 219);
     color: rgb(2, 58, 55);
     font-weight: 100;
+}
+.SUBMIT{
+  margin-top: 77px;
+padding-right: 90px;
+  height: fit-content;
+  align-content: center;
+  color:rgb(10, 83, 80);
+  margin-left: 20px ;
+  width: fit-content;
+  padding-left: 70px ;
+  cursor: pointer;
+  border: 1px solid black;
+  background-color: rgb(145, 219, 219);
+  
+}
+.SUBMIT:hover{
+  background-color: rgb(213, 219, 219);
+  color: rgb(2, 58, 55);
+  font-weight: 100;
 }
 
 /* Element | http://localhost:3000/ */
@@ -97,3 +119,22 @@ span{
     margin-left: 30px;
    }
    
+
+/* Element | http://localhost:3000/ */
+
+.Tip_amount > div:nth-child(2) {
+  width: 100px;
+  height: 32px;
+  margin-left: 63px;
+  font-size: 20px;
+ 
+}
+
+
+.Total > div:nth-child(2) {
+  margin-left: 63px;
+  font-size: 20px;
+  height: 32px;
+  width: 100px;
+  
+}
